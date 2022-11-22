@@ -1,0 +1,15 @@
+/Users/dagorbacheva/Desktop/Homework008/Task 54/bin/Debug/net7.0/Task 54
+/Users/dagorbacheva/Desktop/Homework008/Task 54/bin/Debug/net7.0/Task 54.deps.json
+/Users/dagorbacheva/Desktop/Homework008/Task 54/bin/Debug/net7.0/Task 54.runtimeconfig.json
+/Users/dagorbacheva/Desktop/Homework008/Task 54/bin/Debug/net7.0/Task 54.dll
+/Users/dagorbacheva/Desktop/Homework008/Task 54/bin/Debug/net7.0/Task 54.pdb
+/Users/dagorbacheva/Desktop/Homework008/Task 54/obj/Debug/net7.0/Task 54.csproj.AssemblyReference.cache
+/Users/dagorbacheva/Desktop/Homework008/Task 54/obj/Debug/net7.0/Task 54.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dagorbacheva/Desktop/Homework008/Task 54/obj/Debug/net7.0/Task 54.AssemblyInfoInputs.cache
+/Users/dagorbacheva/Desktop/Homework008/Task 54/obj/Debug/net7.0/Task 54.AssemblyInfo.cs
+/Users/dagorbacheva/Desktop/Homework008/Task 54/obj/Debug/net7.0/Task 54.csproj.CoreCompileInputs.cache
+/Users/dagorbacheva/Desktop/Homework008/Task 54/obj/Debug/net7.0/Task 54.dll
+/Users/dagorbacheva/Desktop/Homework008/Task 54/obj/Debug/net7.0/refint/Task 54.dll
+/Users/dagorbacheva/Desktop/Homework008/Task 54/obj/Debug/net7.0/Task 54.pdb
+/Users/dagorbacheva/Desktop/Homework008/Task 54/obj/Debug/net7.0/Task 54.genruntimeconfig.cache
+/Users/dagorbacheva/Desktop/Homework008/Task 54/obj/Debug/net7.0/ref/Task 54.dll
